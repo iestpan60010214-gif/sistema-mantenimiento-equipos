@@ -1,0 +1,4 @@
+PROYECTO: Sistema de Mantenimiento de Equipos (SMEAN)
+
+PROTOTIPO INTERACTIVO DE FIGMA:
+https://www.figma.com/make/tVpYDEI2ZDIBM8CSlB9Fj7/SMEAN-%E2%80%94-Prototipo-interactivo?t=uGpwCm7tygeQDc6y-1
